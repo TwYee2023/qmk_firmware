@@ -58,6 +58,9 @@
 #define HSV_PINK 234, 128, 255
 #define HSV_BLACK 0, 0, 0
 #define HSV_OFF HSV_BLACK
+#define HSV_BROWN 25, 219, 140
+#define HSV_AQUAMARINE 160, 255, 255
+#define HSV_BLUEGREEN 147, 255, 255
 
 /*
 ########################################################################################
